@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "en-GB"
+title                    : "Joshua Ukaegbu"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Joshua Ukaegbu"
+description              : "Python Portfolio - My key personal projects undertaken on my journey to becoming a pro Software Engineer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,10 +100,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Joshua Ukaegbu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I am a mechanical/civil engineer who has found a passion for programming, and software engineering. I aim to use my fundamental engineering mindset, to build robust scalable software. Technology is changing the world, and I want to make my impact "
+  location         : "London/ Northampton"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -113,13 +113,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           :"joshukaegbu"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "https://www.linkedin.com/in/joshuaukaegbu1"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -269,3 +269,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+    path: ""
+    type: pages
+    values:
+      layout: single
+      author_profile: true

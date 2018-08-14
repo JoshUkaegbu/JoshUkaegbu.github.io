@@ -3,7 +3,7 @@ title: "Abaqus Data Extraction Tool"
 date: 2018-07-21
 tags: [Data Extraction]
 header:
-  image: "images/abaqus/abaqus.jpg"
+  image: "images/abaqus/abaqus.png"
 ---
 
 This is a script that I created to extract data from a numerical analysis

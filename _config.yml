@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Joshua Ukaegbu"
-  avatar           : "/images/selfie.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/single-degree/selfie.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a mechanical/civil engineer who's discovered a passion for programming and software engineering. Technology is changing the world, and i want to use my engineering fundametals to make my mark"
   location         : "London, UK"
   email            :

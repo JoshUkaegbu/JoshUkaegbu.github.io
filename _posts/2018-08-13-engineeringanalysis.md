@@ -1,7 +1,7 @@
 ---
 title: "Python Engineering Project: Single Degree of Freedom Elastic System Analysis"
 date: 2018-08-11
-tags: [singe degree of freedom, elastic system, mechanical engineering]
+tags: [singe degree of freedom elastic system]
 header:
   image: "images/single-degree/single-degree.jpg"
 ---
